@@ -22,7 +22,7 @@
       <scope>test</scope>
     </dependency>
     
-    //dependency not available in nexus 2
+    <!--dependency not available in nexus 2 -->
     <dependency>
     <groupId>io.micronaut</groupId>
     <artifactId>micronaut-runtime</artifactId>
@@ -30,7 +30,7 @@
 </dependency>
 
     
-    //dependency that is available in the nexus 2
+    <!--dependency that is available in the nexus 2 -->
     <!-- https://mvnrepository.com/artifact/velocity/velocity -->
 <dependency>
     <groupId>velocity</groupId>
