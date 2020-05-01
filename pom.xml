@@ -34,12 +34,13 @@
 
 
   
-<!-- https://mvnrepository.com/artifact/org.perf4j/perf4j -->
+<!-- https://mvnrepository.com/artifact/net.sourceforge.nekohtml/nekohtml -->
 <dependency>
-    <groupId>org.perf4j</groupId>
-    <artifactId>perf4j</artifactId>
-    <version>0.9.16</version>
+    <groupId>net.sourceforge.nekohtml</groupId>
+    <artifactId>nekohtml</artifactId>
+    <version>1.9.22</version>
 </dependency>
+
 
     
   </dependencies>
