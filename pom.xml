@@ -32,6 +32,12 @@
     <version>1.4.5</version>
 </dependency>
 
+<!-- https://mvnrepository.com/artifact/xyz.cofe/collection -->
+<dependency>
+    <groupId>xyz.cofe</groupId>
+    <artifactId>collection</artifactId>
+    <version>0.2</version>
+</dependency>
 
   
 
